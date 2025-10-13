@@ -3,16 +3,16 @@ import styles from "./Team.css";
 import avatarKaruto from "../../assets/avatar-karuto.png";
 import avatarAbu from "../../assets/avatar-abu.jpg";
 // import avatarRenbaibai from "../../assets/avatar-renbaibai.jpg";
-import avatarMochuuu from "../../assets/avatar-mochuuu.jpg";
+// import avatarMochuuu from "../../assets/avatar-mochuuu.jpg";
 import Heading from "../Heading/Heading";
 
 function Team() {
-  const TEAM_SUBTITLE = "Our collective";
+  const TEAM_SUBTITLE = "Collective";
   const content = {
     title: "Meet the Fam",
     members: [
       {
-        name: "Karuto",
+        name: "Yao",
         role: ["Organizer", "Product Designer"],
         avatar: avatarKaruto,
         description:
@@ -34,13 +34,13 @@ function Team() {
       //   description:
       //     "Multi-fandom artist who loves brainstorming new forms to breathe life into my art. Your husbando can come in all shapes and forms! Genshin, Honkai Star Rail, Love and Deep Space... I love them all! ",
       // },
-      {
-        name: "Mochuuu",
-        role: ["Illustrator"],
-        avatar: avatarMochuuu,
-        description:
-          "I'm in year-round low energy mode because I devoted all my energy to creating KaeLuc art.",
-      },
+      // {
+      //   name: "Mochuuu",
+      //   role: ["Illustrator"],
+      //   avatar: avatarMochuuu,
+      //   description:
+      //     "I'm in year-round low energy mode because I devoted all my energy to creating KaeLuc art.",
+      // },
     ],
   };
 

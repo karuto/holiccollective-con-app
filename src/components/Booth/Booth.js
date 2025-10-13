@@ -1,7 +1,5 @@
 import React from "react";
 import styles from "./Booth.css";
-import fanime1 from "../../assets/booth/fanime1.jpg";
-import fanime2 from "../../assets/booth/fanime2.jpg";
 import ai1 from "../../assets/booth/ai1.jpg";
 import sac1 from "../../assets/booth/sac1.jpg";
 import sac2 from "../../assets/booth/sac2.jpg";
@@ -13,14 +11,14 @@ function Booth() {
     images: [
       {
         src: sac1,
-        alt: "Booth setup for SacAnime",
-        caption: "10x10 Corner Booth at SacAnime",
+        alt: "Booth setup for Anime Market Sacramento",
+        caption: "10x10 Corner Booth at Anime Market Sacramento",
         isFullWidth: false,
       },
       {
         src: sac2,
-        alt: "Booth setup for SacAnime",
-        caption: "10x10 Corner Booth at SacAnime",
+        alt: "Booth setup for Anime Market Sacramento",
+        caption: "10x10 Corner Booth at Anime Market Sacramento",
         isFullWidth: false,
       },
       {
@@ -35,24 +33,12 @@ function Booth() {
         caption: "10x5 Artist Alley Booth at StocktonCon",
         isFullWidth: true,
       },
-      {
-        src: fanime1,
-        alt: "Booth setup for FanimeCon",
-        caption: "10x10 Booth at FanimeCon",
-        isFullWidth: false,
-      },
-      {
-        src: fanime2,
-        alt: "Booth setup for FanimeCon",
-        caption: "10x10 Booth at FanimeCon",
-        isFullWidth: false,
-      },
     ],
   };
 
   return (
     <section className={styles.booth}>
-      <Heading subtitle="Our conventions" title="booth setup" />
+      <Heading subtitle="Past conventions" title="booth setup" />
       <div className={styles.booth__grid}>
         {content.images.map((image, index) => (
           <figure

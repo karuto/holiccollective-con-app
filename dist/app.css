@@ -410,6 +410,17 @@
   padding: 0 0 32px 0;
 }
 
+.src-components-Products-Products__products__description--38oea {
+  margin: 0 auto 64px;
+  max-width: 560px;
+  padding: 0;
+  color: #fff;
+  text-align: center;
+  font-weight: normal;
+  font-size: var(--font-size-body);
+  line-height: 1.5;
+}
+
 .src-components-Products-Products__products__grid--iApKq {
   display: flex;
   flex-direction: column;

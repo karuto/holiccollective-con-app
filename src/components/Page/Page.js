@@ -12,10 +12,10 @@ function Page() {
     subheadingGlobal:
       "Your fandom deserves better than a plain sticker, and so do you",
     description:
-      "We are a collective of artist friends united by our passion for crafting innovative fan art that go far beyond plain stickers. 🤘",
+      "Hi! My name is Yao and I am a Sacramento-based specialty acrylic standee maker in the Hoyo & LADS fandom. Your husbando deserves better than a plain sticker, and so do you 🤘",
   };
   const disclaimer =
-    "Holic Collective is a small, non-commercial passion project run by a close-knit group of artists. While we're flattered by the interest, we're currently at capacity and not accepting new members to our collective. Thank you for understanding!";
+    "Holic Collective is a small, non-commercial passion project run by Yao. Please reach out to hi@holiccollective.com if you have any questions!";
 
   return (
     <div className={styles.container}>
@@ -27,7 +27,7 @@ function Page() {
         </div>
       </header>
       <div className={styles.content}>
-        <Team />
+        {/* <Team /> */}
         <Products />
         <Booth />
         <div className={styles.disclaimerSection}>
