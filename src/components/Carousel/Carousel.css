@@ -1,0 +1,94 @@
+.carousel {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel__container {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  min-height: 60px;
+  overflow: hidden;
+  display: block;
+}
+
+.carousel__textWrapper {
+  position: relative;
+  overflow: hidden;
+  /* On desktop, the font size (and line height) is 64px. We need to render 2 lines always. */
+  height: 128px;
+  width: 100%;
+}
+
+.carousel__text {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #fff;
+  font-weight: 900;
+  font-family: var(--font-family-serif);
+  font-size: var(--font-size-heading);
+  text-transform: uppercase;
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  white-space: normal;
+  word-break: break-word;
+}
+
+.carousel__text__current {
+  transform: translateY(0);
+}
+
+.carousel__text__next {
+  transform: translateY(100%);
+}
+
+.carousel__text__exit {
+  transform: translateY(-100%);
+}
+
+.carousel__text__enter {
+  transform: translateY(0);
+}
+
+.carousel__image {
+  margin: -40px auto 0;
+  display: flex;
+  width: 400px;
+  height: 600px;
+  object-fit: cover;
+  border-radius: var(--border-radius-big);
+  box-shadow: 0 20px 140px 0 rgba(255, 155, 84, 0.18),
+    0 0px 20px 0 rgba(255, 155, 84, 0.1);
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media (max-width: 768px) {
+  .subheading {
+    margin: 0 16px 32px;
+  }
+
+  .carousel__image {
+    max-width: 85%;
+    margin: -40px auto 0;
+  }
+
+  .carousel__textWrapper {
+    /* On mobile, the font size (and line height) is 32px. We need to render 2 lines always. */
+    height: 64px;
+    width: 100%;
+  }
+
+  .carousel__text {
+    font-size: 32px;
+    line-height: 32px;
+    height: 64px;
+  }
+}
