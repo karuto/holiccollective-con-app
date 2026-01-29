@@ -97,10 +97,6 @@
 }
 
 @media (max-width: 768px) {
-  .subheading {
-    margin: 0 16px 32px;
-  }
-
   .titles__image {
     max-width: 85%;
     margin: -30px auto 0;
