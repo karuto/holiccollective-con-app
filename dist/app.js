@@ -252,75 +252,87 @@ eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"browserupgrad
 
 /***/ }),
 
-/***/ "./src/assets/avatar-abu.jpg":
-/*!***********************************!*\
-  !*** ./src/assets/avatar-abu.jpg ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/avatar-abu.jpg\");\n\n//# sourceURL=webpack:///./src/assets/avatar-abu.jpg?");
-
-/***/ }),
-
-/***/ "./src/assets/avatar-karuto.png":
-/*!**************************************!*\
-  !*** ./src/assets/avatar-karuto.png ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/avatar-karuto.png\");\n\n//# sourceURL=webpack:///./src/assets/avatar-karuto.png?");
-
-/***/ }),
-
-/***/ "./src/assets/booth/ai1.jpg":
+/***/ "./src/assets/art/art-1.png":
 /*!**********************************!*\
-  !*** ./src/assets/booth/ai1.jpg ***!
+  !*** ./src/assets/art/art-1.png ***!
   \**********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/ai1.jpg\");\n\n//# sourceURL=webpack:///./src/assets/booth/ai1.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/art-1.png\");\n\n//# sourceURL=webpack:///./src/assets/art/art-1.png?");
 
 /***/ }),
 
-/***/ "./src/assets/booth/sac1.jpg":
-/*!***********************************!*\
-  !*** ./src/assets/booth/sac1.jpg ***!
-  \***********************************/
+/***/ "./src/assets/art/art-2.png":
+/*!**********************************!*\
+  !*** ./src/assets/art/art-2.png ***!
+  \**********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/sac1.jpg\");\n\n//# sourceURL=webpack:///./src/assets/booth/sac1.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/art-2.png\");\n\n//# sourceURL=webpack:///./src/assets/art/art-2.png?");
 
 /***/ }),
 
-/***/ "./src/assets/booth/sac2.jpg":
-/*!***********************************!*\
-  !*** ./src/assets/booth/sac2.jpg ***!
-  \***********************************/
+/***/ "./src/assets/art/art-3.png":
+/*!**********************************!*\
+  !*** ./src/assets/art/art-3.png ***!
+  \**********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/sac2.jpg\");\n\n//# sourceURL=webpack:///./src/assets/booth/sac2.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/art-3.png\");\n\n//# sourceURL=webpack:///./src/assets/art/art-3.png?");
 
 /***/ }),
 
-/***/ "./src/assets/booth/stockton1.jpg":
-/*!****************************************!*\
-  !*** ./src/assets/booth/stockton1.jpg ***!
-  \****************************************/
+/***/ "./src/assets/art/art-4.png":
+/*!**********************************!*\
+  !*** ./src/assets/art/art-4.png ***!
+  \**********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/stockton1.jpg\");\n\n//# sourceURL=webpack:///./src/assets/booth/stockton1.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/art-4.png\");\n\n//# sourceURL=webpack:///./src/assets/art/art-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/booth/booth-ala-1.jpg":
+/*!******************************************!*\
+  !*** ./src/assets/booth/booth-ala-1.jpg ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/booth-ala-1.jpg\");\n\n//# sourceURL=webpack:///./src/assets/booth/booth-ala-1.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/booth/booth-ala-2.jpg":
+/*!******************************************!*\
+  !*** ./src/assets/booth/booth-ala-2.jpg ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/booth-ala-2.jpg\");\n\n//# sourceURL=webpack:///./src/assets/booth/booth-ala-2.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/booth/booth-small.jpg":
+/*!******************************************!*\
+  !*** ./src/assets/booth/booth-small.jpg ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/booth-small.jpg\");\n\n//# sourceURL=webpack:///./src/assets/booth/booth-small.jpg?");
 
 /***/ }),
 
@@ -336,63 +348,170 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
-/***/ "./src/assets/products/hc-0r.png":
-/*!***************************************!*\
-  !*** ./src/assets/products/hc-0r.png ***!
-  \***************************************/
+/***/ "./src/assets/merch/merch-1-mydei.png":
+/*!********************************************!*\
+  !*** ./src/assets/merch/merch-1-mydei.png ***!
+  \********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/hc-0r.png\");\n\n//# sourceURL=webpack:///./src/assets/products/hc-0r.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-1-mydei.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-1-mydei.png?");
 
 /***/ }),
 
-/***/ "./src/assets/products/hc-1w.png":
-/*!***************************************!*\
-  !*** ./src/assets/products/hc-1w.png ***!
-  \***************************************/
+/***/ "./src/assets/merch/merch-2-anaxa.png":
+/*!********************************************!*\
+  !*** ./src/assets/merch/merch-2-anaxa.png ***!
+  \********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/hc-1w.png\");\n\n//# sourceURL=webpack:///./src/assets/products/hc-1w.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-2-anaxa.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-2-anaxa.png?");
 
 /***/ }),
 
-/***/ "./src/assets/products/hc-2g.png":
-/*!***************************************!*\
-  !*** ./src/assets/products/hc-2g.png ***!
-  \***************************************/
+/***/ "./src/assets/merch/merch-2-phainon-1.png":
+/*!************************************************!*\
+  !*** ./src/assets/merch/merch-2-phainon-1.png ***!
+  \************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/hc-2g.png\");\n\n//# sourceURL=webpack:///./src/assets/products/hc-2g.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-2-phainon-1.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-2-phainon-1.png?");
 
 /***/ }),
 
-/***/ "./src/assets/products/hc-3d.png":
-/*!***************************************!*\
-  !*** ./src/assets/products/hc-3d.png ***!
-  \***************************************/
+/***/ "./src/assets/merch/merch-2-phainon-2.png":
+/*!************************************************!*\
+  !*** ./src/assets/merch/merch-2-phainon-2.png ***!
+  \************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/hc-3d.png\");\n\n//# sourceURL=webpack:///./src/assets/products/hc-3d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-2-phainon-2.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-2-phainon-2.png?");
 
 /***/ }),
 
-/***/ "./src/assets/products/hc-4h.png":
-/*!***************************************!*\
-  !*** ./src/assets/products/hc-4h.png ***!
-  \***************************************/
+/***/ "./src/assets/merch/merch-3-sunday-1.png":
+/*!***********************************************!*\
+  !*** ./src/assets/merch/merch-3-sunday-1.png ***!
+  \***********************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/hc-4h.png\");\n\n//# sourceURL=webpack:///./src/assets/products/hc-4h.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-3-sunday-1.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-3-sunday-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/merch/merch-3-sunday-2.png":
+/*!***********************************************!*\
+  !*** ./src/assets/merch/merch-3-sunday-2.png ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-3-sunday-2.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-3-sunday-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/merch/merch-4-1.png":
+/*!****************************************!*\
+  !*** ./src/assets/merch/merch-4-1.png ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-4-1.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-4-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/merch/merch-4-2.png":
+/*!****************************************!*\
+  !*** ./src/assets/merch/merch-4-2.png ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-4-2.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-4-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/merch/merch-5-1.png":
+/*!****************************************!*\
+  !*** ./src/assets/merch/merch-5-1.png ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-5-1.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-5-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/merch/merch-5-2.png":
+/*!****************************************!*\
+  !*** ./src/assets/merch/merch-5-2.png ***!
+  \****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-5-2.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-5-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/merch/merch-al-1.png":
+/*!*****************************************!*\
+  !*** ./src/assets/merch/merch-al-1.png ***!
+  \*****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-al-1.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-al-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/merch/merch-al-2.png":
+/*!*****************************************!*\
+  !*** ./src/assets/merch/merch-al-2.png ***!
+  \*****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"./images/merch-al-2.png\");\n\n//# sourceURL=webpack:///./src/assets/merch/merch-al-2.png?");
+
+/***/ }),
+
+/***/ "./src/components/Art/Art.css":
+/*!************************************!*\
+  !*** ./src/components/Art/Art.css ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"art\":\"src-components-Art-Art__art--jsoMh\",\"art__title\":\"src-components-Art-Art__art__title--3v4Tq\",\"art__grid\":\"src-components-Art-Art__art__grid--1UAxX\",\"art__item\":\"src-components-Art-Art__art__item--2SLrE\",\"art__item_full\":\"src-components-Art-Art__art__item_full--21mLQ\",\"art__item_half\":\"src-components-Art-Art__art__item_half--2STEt\",\"art__image\":\"src-components-Art-Art__art__image--LENDo\",\"art__caption\":\"src-components-Art-Art__art__caption--3vwnF\"};\n\n//# sourceURL=webpack:///./src/components/Art/Art.css?");
+
+/***/ }),
+
+/***/ "./src/components/Art/Art.js":
+/*!***********************************!*\
+  !*** ./src/components/Art/Art.js ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Art = __webpack_require__(/*! ./Art.css */ \"./src/components/Art/Art.css\");\n\nvar _Art2 = _interopRequireDefault(_Art);\n\nvar _art = __webpack_require__(/*! ../../assets/art/art-1.png */ \"./src/assets/art/art-1.png\");\n\nvar _art2 = _interopRequireDefault(_art);\n\nvar _art3 = __webpack_require__(/*! ../../assets/art/art-2.png */ \"./src/assets/art/art-2.png\");\n\nvar _art4 = _interopRequireDefault(_art3);\n\nvar _art5 = __webpack_require__(/*! ../../assets/art/art-3.png */ \"./src/assets/art/art-3.png\");\n\nvar _art6 = _interopRequireDefault(_art5);\n\nvar _art7 = __webpack_require__(/*! ../../assets/art/art-4.png */ \"./src/assets/art/art-4.png\");\n\nvar _art8 = _interopRequireDefault(_art7);\n\nvar _Heading = __webpack_require__(/*! ../Heading/Heading */ \"./src/components/Heading/Heading.js\");\n\nvar _Heading2 = _interopRequireDefault(_Heading);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Art() {\n  var content = {\n    images: [{\n      src: _art2.default,\n      alt: \"Art showcase\",\n      isFullWidth: true\n    }, {\n      src: _art4.default,\n      alt: \"Art showcase\",\n      isFullWidth: true\n    }, {\n      src: _art6.default,\n      alt: \"Art showcase\",\n      isFullWidth: true\n    }, {\n      src: _art8.default,\n      alt: \"Art showcase\",\n      isFullWidth: true\n    }]\n  };\n\n  return _react2.default.createElement(\n    \"section\",\n    { className: _Art2.default.art },\n    _react2.default.createElement(_Heading2.default, { subtitle: \"Honkai: Star Rail & Genshin Impact\", title: \"Art Showcase\" }),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Art2.default.art__grid },\n      content.images.map(function (image, index) {\n        return _react2.default.createElement(\n          \"figure\",\n          {\n            key: index,\n            className: _Art2.default.art__item + \" \" + (image.isFullWidth ? _Art2.default.art__item_full : _Art2.default.art__item_half)\n          },\n          _react2.default.createElement(\"img\", {\n            src: \"dist/\" + image.src,\n            alt: image.alt,\n            className: _Art2.default.art__image\n          })\n        );\n      })\n    )\n  );\n}\n\nexports.default = Art;\n\n//# sourceURL=webpack:///./src/components/Art/Art.js?");
 
 /***/ }),
 
@@ -415,7 +534,7 @@ eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"booth\":\"src
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Booth = __webpack_require__(/*! ./Booth.css */ \"./src/components/Booth/Booth.css\");\n\nvar _Booth2 = _interopRequireDefault(_Booth);\n\nvar _ai = __webpack_require__(/*! ../../assets/booth/ai1.jpg */ \"./src/assets/booth/ai1.jpg\");\n\nvar _ai2 = _interopRequireDefault(_ai);\n\nvar _sac = __webpack_require__(/*! ../../assets/booth/sac1.jpg */ \"./src/assets/booth/sac1.jpg\");\n\nvar _sac2 = _interopRequireDefault(_sac);\n\nvar _sac3 = __webpack_require__(/*! ../../assets/booth/sac2.jpg */ \"./src/assets/booth/sac2.jpg\");\n\nvar _sac4 = _interopRequireDefault(_sac3);\n\nvar _stockton = __webpack_require__(/*! ../../assets/booth/stockton1.jpg */ \"./src/assets/booth/stockton1.jpg\");\n\nvar _stockton2 = _interopRequireDefault(_stockton);\n\nvar _Heading = __webpack_require__(/*! ../Heading/Heading */ \"./src/components/Heading/Heading.js\");\n\nvar _Heading2 = _interopRequireDefault(_Heading);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Booth() {\n  var content = {\n    images: [{\n      src: _sac2.default,\n      alt: \"Booth setup for Anime Market Sacramento\",\n      caption: \"10x10 Corner Booth at Anime Market Sacramento\",\n      isFullWidth: false\n    }, {\n      src: _sac4.default,\n      alt: \"Booth setup for Anime Market Sacramento\",\n      caption: \"10x10 Corner Booth at Anime Market Sacramento\",\n      isFullWidth: false\n    }, {\n      src: _ai2.default,\n      alt: \"Booth setup for Anime Impulse\",\n      caption: \"10x20 Double Booth at Anime Impulse\",\n      isFullWidth: true\n    }, {\n      src: _stockton2.default,\n      alt: \"Booth setup for StocktonCon\",\n      caption: \"10x5 Artist Alley Booth at StocktonCon\",\n      isFullWidth: true\n    }]\n  };\n\n  return _react2.default.createElement(\n    \"section\",\n    { className: _Booth2.default.booth },\n    _react2.default.createElement(_Heading2.default, { subtitle: \"Past conventions\", title: \"booth setup\" }),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Booth2.default.booth__grid },\n      content.images.map(function (image, index) {\n        return _react2.default.createElement(\n          \"figure\",\n          {\n            key: index,\n            className: _Booth2.default.booth__item + \" \" + (image.isFullWidth ? _Booth2.default.booth__item_full : _Booth2.default.booth__item_half)\n          },\n          _react2.default.createElement(\"img\", {\n            src: \"dist/\" + image.src,\n            alt: image.alt,\n            className: _Booth2.default.booth__image\n          }),\n          _react2.default.createElement(\n            \"figcaption\",\n            { className: _Booth2.default.booth__caption },\n            image.caption\n          )\n        );\n      })\n    )\n  );\n}\n\nexports.default = Booth;\n\n//# sourceURL=webpack:///./src/components/Booth/Booth.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Booth = __webpack_require__(/*! ./Booth.css */ \"./src/components/Booth/Booth.css\");\n\nvar _Booth2 = _interopRequireDefault(_Booth);\n\nvar _boothAla = __webpack_require__(/*! ../../assets/booth/booth-ala-1.jpg */ \"./src/assets/booth/booth-ala-1.jpg\");\n\nvar _boothAla2 = _interopRequireDefault(_boothAla);\n\nvar _boothAla3 = __webpack_require__(/*! ../../assets/booth/booth-ala-2.jpg */ \"./src/assets/booth/booth-ala-2.jpg\");\n\nvar _boothAla4 = _interopRequireDefault(_boothAla3);\n\nvar _boothSmall = __webpack_require__(/*! ../../assets/booth/booth-small.jpg */ \"./src/assets/booth/booth-small.jpg\");\n\nvar _boothSmall2 = _interopRequireDefault(_boothSmall);\n\nvar _Heading = __webpack_require__(/*! ../Heading/Heading */ \"./src/components/Heading/Heading.js\");\n\nvar _Heading2 = _interopRequireDefault(_Heading);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Booth() {\n  var content = {\n    images: [{\n      src: _boothAla2.default,\n      alt: \"10'x10' corner setup at Anime Los Angeles 2026\",\n      caption: \"10'x10' corner setup at Anime Los Angeles 2026\",\n      isFullWidth: true\n    }, {\n      src: _boothAla4.default,\n      alt: \"10'x10' corner setup at Anime Los Angeles 2026\",\n      caption: \"10'x10' corner setup at Anime Los Angeles 2026\",\n      isFullWidth: false\n    }, {\n      src: _boothSmall2.default,\n      alt: \"8' table setup at local convention\",\n      caption: \"8' table setup at local convention\",\n      isFullWidth: false\n    }]\n  };\n\n  return _react2.default.createElement(\n    \"section\",\n    { className: _Booth2.default.booth },\n    _react2.default.createElement(_Heading2.default, { subtitle: \"Recent conventions\", title: \"booth setup\" }),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Booth2.default.booth__grid },\n      content.images.map(function (image, index) {\n        return _react2.default.createElement(\n          \"figure\",\n          {\n            key: index,\n            className: _Booth2.default.booth__item + \" \" + (image.isFullWidth ? _Booth2.default.booth__item_full : _Booth2.default.booth__item_half)\n          },\n          _react2.default.createElement(\"img\", {\n            src: \"dist/\" + image.src,\n            alt: image.alt,\n            className: _Booth2.default.booth__image\n          }),\n          _react2.default.createElement(\n            \"figcaption\",\n            { className: _Booth2.default.booth__caption },\n            image.caption\n          )\n        );\n      })\n    )\n  );\n}\n\nexports.default = Booth;\n\n//# sourceURL=webpack:///./src/components/Booth/Booth.js?");
 
 /***/ }),
 
@@ -488,6 +607,29 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 
 /***/ }),
 
+/***/ "./src/components/Merch/Merch.css":
+/*!****************************************!*\
+  !*** ./src/components/Merch/Merch.css ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"merch\":\"src-components-Merch-Merch__merch--JJBei\",\"merch__title\":\"src-components-Merch-Merch__merch__title--1w6tw\",\"merch__grid\":\"src-components-Merch-Merch__merch__grid--2GmcU\",\"merch__item\":\"src-components-Merch-Merch__merch__item--3ZJFH\",\"merch__item_full\":\"src-components-Merch-Merch__merch__item_full--Ggnb9\",\"merch__item_half\":\"src-components-Merch-Merch__merch__item_half--3EolW\",\"merch__image\":\"src-components-Merch-Merch__merch__image--2ApKp\",\"merch__caption\":\"src-components-Merch-Merch__merch__caption--2KZkK\"};\n\n//# sourceURL=webpack:///./src/components/Merch/Merch.css?");
+
+/***/ }),
+
+/***/ "./src/components/Merch/Merch.js":
+/*!***************************************!*\
+  !*** ./src/components/Merch/Merch.js ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Merch = __webpack_require__(/*! ./Merch.css */ \"./src/components/Merch/Merch.css\");\n\nvar _Merch2 = _interopRequireDefault(_Merch);\n\nvar _Heading = __webpack_require__(/*! ../Heading/Heading */ \"./src/components/Heading/Heading.js\");\n\nvar _Heading2 = _interopRequireDefault(_Heading);\n\nvar _merch1Mydei = __webpack_require__(/*! ../../assets/merch/merch-1-mydei.png */ \"./src/assets/merch/merch-1-mydei.png\");\n\nvar _merch1Mydei2 = _interopRequireDefault(_merch1Mydei);\n\nvar _merch2Anaxa = __webpack_require__(/*! ../../assets/merch/merch-2-anaxa.png */ \"./src/assets/merch/merch-2-anaxa.png\");\n\nvar _merch2Anaxa2 = _interopRequireDefault(_merch2Anaxa);\n\nvar _merch2Phainon = __webpack_require__(/*! ../../assets/merch/merch-2-phainon-1.png */ \"./src/assets/merch/merch-2-phainon-1.png\");\n\nvar _merch2Phainon2 = _interopRequireDefault(_merch2Phainon);\n\nvar _merch2Phainon3 = __webpack_require__(/*! ../../assets/merch/merch-2-phainon-2.png */ \"./src/assets/merch/merch-2-phainon-2.png\");\n\nvar _merch2Phainon4 = _interopRequireDefault(_merch2Phainon3);\n\nvar _merch3Sunday = __webpack_require__(/*! ../../assets/merch/merch-3-sunday-1.png */ \"./src/assets/merch/merch-3-sunday-1.png\");\n\nvar _merch3Sunday2 = _interopRequireDefault(_merch3Sunday);\n\nvar _merch3Sunday3 = __webpack_require__(/*! ../../assets/merch/merch-3-sunday-2.png */ \"./src/assets/merch/merch-3-sunday-2.png\");\n\nvar _merch3Sunday4 = _interopRequireDefault(_merch3Sunday3);\n\nvar _merch = __webpack_require__(/*! ../../assets/merch/merch-4-1.png */ \"./src/assets/merch/merch-4-1.png\");\n\nvar _merch2 = _interopRequireDefault(_merch);\n\nvar _merch3 = __webpack_require__(/*! ../../assets/merch/merch-4-2.png */ \"./src/assets/merch/merch-4-2.png\");\n\nvar _merch4 = _interopRequireDefault(_merch3);\n\nvar _merch5 = __webpack_require__(/*! ../../assets/merch/merch-5-1.png */ \"./src/assets/merch/merch-5-1.png\");\n\nvar _merch6 = _interopRequireDefault(_merch5);\n\nvar _merch7 = __webpack_require__(/*! ../../assets/merch/merch-5-2.png */ \"./src/assets/merch/merch-5-2.png\");\n\nvar _merch8 = _interopRequireDefault(_merch7);\n\nvar _merchAl = __webpack_require__(/*! ../../assets/merch/merch-al-1.png */ \"./src/assets/merch/merch-al-1.png\");\n\nvar _merchAl2 = _interopRequireDefault(_merchAl);\n\nvar _merchAl3 = __webpack_require__(/*! ../../assets/merch/merch-al-2.png */ \"./src/assets/merch/merch-al-2.png\");\n\nvar _merchAl4 = _interopRequireDefault(_merchAl3);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar merchImages = [_merch1Mydei2.default, _merch2Anaxa2.default, _merch2Phainon2.default, _merch2Phainon4.default, _merch3Sunday2.default, _merch3Sunday4.default, _merchAl2.default, _merchAl4.default, _merch2.default, _merch4.default, _merch6.default, _merch8.default];\n\nfunction Merch() {\n  return _react2.default.createElement(\n    \"section\",\n    { className: _Merch2.default.merch },\n    _react2.default.createElement(_Heading2.default, { subtitle: \"No reselling & no AI\", title: \"Merch showcase\" }),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Merch2.default.merch__grid },\n      merchImages.map(function (img, index) {\n        return _react2.default.createElement(\n          \"figure\",\n          { key: index, className: _Merch2.default.merch__item },\n          _react2.default.createElement(\"img\", {\n            src: \"dist/\" + img,\n            alt: \"Merch showcase\",\n            className: _Merch2.default.merch__image\n          })\n        );\n      })\n    )\n  );\n}\n\nexports.default = Merch;\n\n//# sourceURL=webpack:///./src/components/Merch/Merch.js?");
+
+/***/ }),
+
 /***/ "./src/components/Page/Page.css":
 /*!**************************************!*\
   !*** ./src/components/Page/Page.css ***!
@@ -507,53 +649,7 @@ eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"container\":\
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Footer = __webpack_require__(/*! ../Footer/Footer */ \"./src/components/Footer/Footer.js\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _Page = __webpack_require__(/*! ./Page.css */ \"./src/components/Page/Page.css\");\n\nvar _Page2 = _interopRequireDefault(_Page);\n\nvar _Team = __webpack_require__(/*! ../Team/Team */ \"./src/components/Team/Team.js\");\n\nvar _Team2 = _interopRequireDefault(_Team);\n\nvar _Booth = __webpack_require__(/*! ../Booth/Booth */ \"./src/components/Booth/Booth.js\");\n\nvar _Booth2 = _interopRequireDefault(_Booth);\n\nvar _Products = __webpack_require__(/*! ../Products/Products */ \"./src/components/Products/Products.js\");\n\nvar _Products2 = _interopRequireDefault(_Products);\n\nvar _Carousel = __webpack_require__(/*! ../Carousel/Carousel */ \"./src/components/Carousel/Carousel.js\");\n\nvar _Carousel2 = _interopRequireDefault(_Carousel);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Page() {\n  var content = {\n    headingGlobal: \"Holic Collective\",\n    subheadingGlobal: \"Your fandom deserves better than a plain sticker, and so do you\",\n    description: \"Hi! My name is Yao and I am a Sacramento-based specialty acrylic standee maker in the Hoyo & LADS fandom. Your husbando deserves better than a plain sticker, and so do you 🤘\"\n  };\n  var disclaimer = \"Holic Collective is a small, non-commercial passion project run by Yao. Please reach out to hi@holiccollective.com if you have any questions!\";\n\n  return _react2.default.createElement(\n    \"div\",\n    { className: _Page2.default.container },\n    _react2.default.createElement(\n      \"header\",\n      { className: _Page2.default.header },\n      _react2.default.createElement(\n        \"h1\",\n        { className: _Page2.default[\"heading\"] },\n        content.headingGlobal\n      ),\n      _react2.default.createElement(\n        \"h3\",\n        { className: _Page2.default[\"subheading\"] },\n        content.description\n      ),\n      _react2.default.createElement(\n        \"div\",\n        { className: _Page2.default.headers__content },\n        _react2.default.createElement(_Carousel2.default, null)\n      )\n    ),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Page2.default.content },\n      _react2.default.createElement(_Products2.default, null),\n      _react2.default.createElement(_Booth2.default, null),\n      _react2.default.createElement(\n        \"div\",\n        { className: _Page2.default.disclaimerSection },\n        _react2.default.createElement(\n          \"p\",\n          { className: _Page2.default.disclaimerText },\n          disclaimer\n        )\n      )\n    ),\n    _react2.default.createElement(_Footer2.default, null)\n  );\n}\n\nexports.default = Page;\n\n//# sourceURL=webpack:///./src/components/Page/Page.js?");
-
-/***/ }),
-
-/***/ "./src/components/Products/Products.css":
-/*!**********************************************!*\
-  !*** ./src/components/Products/Products.css ***!
-  \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"products\":\"src-components-Products-Products__products--3oOQh\",\"products__description\":\"src-components-Products-Products__products__description--38oea\",\"products__grid\":\"src-components-Products-Products__products__grid--iApKq\",\"product\":\"src-components-Products-Products__product--1XJQV\"};\n\n//# sourceURL=webpack:///./src/components/Products/Products.css?");
-
-/***/ }),
-
-/***/ "./src/components/Products/Products.js":
-/*!*********************************************!*\
-  !*** ./src/components/Products/Products.js ***!
-  \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Products = __webpack_require__(/*! ./Products.css */ \"./src/components/Products/Products.css\");\n\nvar _Products2 = _interopRequireDefault(_Products);\n\nvar _Heading = __webpack_require__(/*! ../Heading/Heading */ \"./src/components/Heading/Heading.js\");\n\nvar _Heading2 = _interopRequireDefault(_Heading);\n\nvar _hc0r = __webpack_require__(/*! ../../assets/products/hc-0r.png */ \"./src/assets/products/hc-0r.png\");\n\nvar _hc0r2 = _interopRequireDefault(_hc0r);\n\nvar _hc1w = __webpack_require__(/*! ../../assets/products/hc-1w.png */ \"./src/assets/products/hc-1w.png\");\n\nvar _hc1w2 = _interopRequireDefault(_hc1w);\n\nvar _hc2g = __webpack_require__(/*! ../../assets/products/hc-2g.png */ \"./src/assets/products/hc-2g.png\");\n\nvar _hc2g2 = _interopRequireDefault(_hc2g);\n\nvar _hc3d = __webpack_require__(/*! ../../assets/products/hc-3d.png */ \"./src/assets/products/hc-3d.png\");\n\nvar _hc3d2 = _interopRequireDefault(_hc3d);\n\nvar _hc4h = __webpack_require__(/*! ../../assets/products/hc-4h.png */ \"./src/assets/products/hc-4h.png\");\n\nvar _hc4h2 = _interopRequireDefault(_hc4h);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar productImages = [_hc0r2.default, _hc1w2.default, _hc2g2.default, _hc3d2.default, _hc4h2.default];\n\nfunction Products() {\n  var content = {\n    description: \"Unlike most artist alleys, I have no stickers and very few prints at my booth.\\n\\n      I love making acrylics with obscure tech such as liquid acrylics, UV light absorbent acrylics, backlit acrylics, rotational acrylics, chest acrylics, dress up acrylics... and my acrylics are huge (10\\\"+ in size)!\\n\\n      For the very few prints I have, I always mix in some creative tech, such as water sensitivity for fun.\\n\\n      Crowds at Fanime, AX, and ALA always go crazy whenever I demo my merch effects at the booth! My target audience is female, 18\\u201325 years old, with an average transaction size of $50+ (very rare in Artist Alley).\\n\\n      I design and make all the merch myself \\u2014 NOT a reseller! And absolutely no AI.\"\n  };\n\n  return _react2.default.createElement(\n    \"section\",\n    { className: _Products2.default.products },\n    _react2.default.createElement(_Heading2.default, { subtitle: \"Creations\", title: \"What I make\" }),\n    _react2.default.createElement(\n      \"h3\",\n      { className: _Products2.default.products__description },\n      content.description.split(\"\\n\").map(function (line, idx) {\n        return _react2.default.createElement(\n          _react2.default.Fragment,\n          { key: idx },\n          line.trim(),\n          _react2.default.createElement(\"br\", null)\n        );\n      })\n    ),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Products2.default.products__grid },\n      productImages.map(function (img, idx) {\n        return _react2.default.createElement(\"img\", {\n          key: idx,\n          src: \"dist/\" + img,\n          alt: \"Product photo\",\n          className: _Products2.default.product\n        });\n      })\n    )\n  );\n}\n\nexports.default = Products;\n\n//# sourceURL=webpack:///./src/components/Products/Products.js?");
-
-/***/ }),
-
-/***/ "./src/components/Team/Team.css":
-/*!**************************************!*\
-  !*** ./src/components/Team/Team.css ***!
-  \**************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("// extracted by mini-css-extract-plugin\nmodule.exports = {\"team\":\"src-components-Team-Team__team---dzlP\",\"team__title\":\"src-components-Team-Team__team__title--1afBR\",\"team__list\":\"src-components-Team-Team__team__list--143Q6\",\"team__member\":\"src-components-Team-Team__team__member--2gm9W\",\"team__member--visible\":\"src-components-Team-Team__team__member--visible--29dek\",\"team__avatar\":\"src-components-Team-Team__team__avatar--1cY0p\",\"team__info\":\"src-components-Team-Team__team__info--2-2UL\",\"team__name\":\"src-components-Team-Team__team__name--3YiwP\",\"team__role\":\"src-components-Team-Team__team__role--3BkPt\",\"team__description\":\"src-components-Team-Team__team__description--2RD-d\",\"team__highlight\":\"src-components-Team-Team__team__highlight--3BNEd\",\"team__roleContainer\":\"src-components-Team-Team__team__roleContainer--2OUNP\",\"team__label\":\"src-components-Team-Team__team__label--2ue-o\"};\n\n//# sourceURL=webpack:///./src/components/Team/Team.css?");
-
-/***/ }),
-
-/***/ "./src/components/Team/Team.js":
-/*!*************************************!*\
-  !*** ./src/components/Team/Team.js ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Team = __webpack_require__(/*! ./Team.css */ \"./src/components/Team/Team.css\");\n\nvar _Team2 = _interopRequireDefault(_Team);\n\nvar _avatarKaruto = __webpack_require__(/*! ../../assets/avatar-karuto.png */ \"./src/assets/avatar-karuto.png\");\n\nvar _avatarKaruto2 = _interopRequireDefault(_avatarKaruto);\n\nvar _avatarAbu = __webpack_require__(/*! ../../assets/avatar-abu.jpg */ \"./src/assets/avatar-abu.jpg\");\n\nvar _avatarAbu2 = _interopRequireDefault(_avatarAbu);\n\nvar _Heading = __webpack_require__(/*! ../Heading/Heading */ \"./src/components/Heading/Heading.js\");\n\nvar _Heading2 = _interopRequireDefault(_Heading);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Team() {\n  var TEAM_SUBTITLE = \"Collective\";\n  var content = {\n    title: \"Meet the Fam\",\n    members: [{\n      name: \"Yao\",\n      role: [\"Organizer\", \"Product Designer\"],\n      avatar: _avatarKaruto2.default,\n      description: \"I work with my artist overlords to make sure their beautiful illustrations turn into eye-popping products! As a tech nerd, I love to fiddle and experiment with print and acrylic technologies. I also run the collective and\",\n      // \"I work with my artist overlords to make sure their eye-popping products got properly delivered to your doorsteps in the U.S.! I also run the collective and\",\n      highlight: \"I will be the one vending at conventions!\"\n    }, {\n      name: \"Abu\",\n      role: [\"Illustrator\"],\n      avatar: _avatarAbu2.default,\n      description: \"Hi, I'm Abu! With nearly a decade of experience creating fanart and an obsession with Honkai Star Rail, I love gathering feedback from con attendees. I truly believe my art shines the brightest when experienced in person!\"\n    }]\n  };\n\n  // Intersection Observer for fade-in\n  var memberRefs = (0, _react.useRef)([]);\n  (0, _react.useEffect)(function () {\n    var observer = new window.IntersectionObserver(function (entries) {\n      entries.forEach(function (entry) {\n        if (entry.isIntersecting) {\n          entry.target.classList.add(_Team2.default[\"team__member--visible\"]);\n        }\n      });\n    }, { threshold: 0.2 });\n    memberRefs.current.forEach(function (ref) {\n      if (ref) observer.observe(ref);\n    });\n    return function () {\n      memberRefs.current.forEach(function (ref) {\n        if (ref) observer.unobserve(ref);\n      });\n    };\n  }, []);\n\n  return _react2.default.createElement(\n    \"section\",\n    { className: _Team2.default.team },\n    _react2.default.createElement(_Heading2.default, { subtitle: TEAM_SUBTITLE, title: content.title }),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Team2.default.team__list },\n      content.members.map(function (member, index) {\n        return _react2.default.createElement(\n          \"div\",\n          {\n            key: index,\n            className: _Team2.default.team__member,\n            ref: function ref(el) {\n              return memberRefs.current[index] = el;\n            }\n          },\n          _react2.default.createElement(\n            \"div\",\n            { className: _Team2.default.team__roleContainer },\n            member.role && member.role.map(function (role, i) {\n              return _react2.default.createElement(\n                \"span\",\n                { key: i, className: _Team2.default.team__role },\n                role\n              );\n            })\n          ),\n          _react2.default.createElement(\"img\", {\n            src: \"dist/\" + member.avatar,\n            alt: member.name + \"'s avatar\",\n            className: _Team2.default.team__avatar\n          }),\n          _react2.default.createElement(\n            \"div\",\n            { className: _Team2.default.team__info },\n            _react2.default.createElement(\n              \"h3\",\n              { className: _Team2.default.team__name },\n              member.name\n            ),\n            member.name === \"Karuto\" ? _react2.default.createElement(\n              \"p\",\n              { className: _Team2.default.team__description },\n              member.description + \" \",\n              _react2.default.createElement(\n                \"span\",\n                { className: _Team2.default.team__highlight },\n                member.highlight\n              )\n            ) : _react2.default.createElement(\n              \"p\",\n              { className: _Team2.default.team__description },\n              member.description\n            )\n          )\n        );\n      })\n    )\n  );\n}\n// import avatarRenbaibai from \"../../assets/avatar-renbaibai.jpg\";\n// import avatarMochuuu from \"../../assets/avatar-mochuuu.jpg\";\nexports.default = Team;\n\n//# sourceURL=webpack:///./src/components/Team/Team.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Footer = __webpack_require__(/*! ../Footer/Footer */ \"./src/components/Footer/Footer.js\");\n\nvar _Footer2 = _interopRequireDefault(_Footer);\n\nvar _Page = __webpack_require__(/*! ./Page.css */ \"./src/components/Page/Page.css\");\n\nvar _Page2 = _interopRequireDefault(_Page);\n\nvar _Art = __webpack_require__(/*! ../Art/Art */ \"./src/components/Art/Art.js\");\n\nvar _Art2 = _interopRequireDefault(_Art);\n\nvar _Booth = __webpack_require__(/*! ../Booth/Booth */ \"./src/components/Booth/Booth.js\");\n\nvar _Booth2 = _interopRequireDefault(_Booth);\n\nvar _Merch = __webpack_require__(/*! ../Merch/Merch */ \"./src/components/Merch/Merch.js\");\n\nvar _Merch2 = _interopRequireDefault(_Merch);\n\nvar _Carousel = __webpack_require__(/*! ../Carousel/Carousel */ \"./src/components/Carousel/Carousel.js\");\n\nvar _Carousel2 = _interopRequireDefault(_Carousel);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction Page() {\n  var content = {\n    headingGlobal: \"Holic Collective\",\n    subheadingGlobal: \"Your fandom deserves better than a plain sticker, and so do you\",\n    description: \"Hi! I'm Karuto, a California-based artist & specialty acrylic standee maker. Your husbando deserves better than a plain sticker, and so do you 🤘\"\n  };\n  var disclaimer = \"Holic Collective is a small, non-commercial passion project run by Karuto. Please reach out to hi@holiccollective.com if you have any questions!\";\n\n  return _react2.default.createElement(\n    \"div\",\n    { className: _Page2.default.container },\n    _react2.default.createElement(\n      \"header\",\n      { className: _Page2.default.header },\n      _react2.default.createElement(\n        \"h1\",\n        { className: _Page2.default[\"heading\"] },\n        content.headingGlobal\n      ),\n      _react2.default.createElement(\n        \"h3\",\n        { className: _Page2.default[\"subheading\"] },\n        content.description\n      ),\n      _react2.default.createElement(\n        \"div\",\n        { className: _Page2.default.headers__content },\n        _react2.default.createElement(_Carousel2.default, null)\n      )\n    ),\n    _react2.default.createElement(\n      \"div\",\n      { className: _Page2.default.content },\n      _react2.default.createElement(_Art2.default, null),\n      _react2.default.createElement(_Merch2.default, null),\n      _react2.default.createElement(_Booth2.default, null),\n      _react2.default.createElement(\n        \"div\",\n        { className: _Page2.default.disclaimerSection },\n        _react2.default.createElement(\n          \"p\",\n          { className: _Page2.default.disclaimerText },\n          disclaimer\n        )\n      )\n    ),\n    _react2.default.createElement(_Footer2.default, null)\n  );\n}\n\nexports.default = Page;\n\n//# sourceURL=webpack:///./src/components/Page/Page.js?");
 
 /***/ }),
 

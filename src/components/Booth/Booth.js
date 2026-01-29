@@ -1,44 +1,37 @@
 import React from "react";
 import styles from "./Booth.css";
-import ai1 from "../../assets/booth/ai1.jpg";
-import sac1 from "../../assets/booth/sac1.jpg";
-import sac2 from "../../assets/booth/sac2.jpg";
-import stockton1 from "../../assets/booth/stockton1.jpg";
+import boothAla1 from "../../assets/booth/booth-ala-1.jpg";
+import boothAla2 from "../../assets/booth/booth-ala-2.jpg";
+import boothSmall from "../../assets/booth/booth-small.jpg";
 import Heading from "../Heading/Heading";
 
 function Booth() {
   const content = {
     images: [
       {
-        src: sac1,
-        alt: "Booth setup for Anime Market Sacramento",
-        caption: "10x10 Corner Booth at Anime Market Sacramento",
-        isFullWidth: false,
-      },
-      {
-        src: sac2,
-        alt: "Booth setup for Anime Market Sacramento",
-        caption: "10x10 Corner Booth at Anime Market Sacramento",
-        isFullWidth: false,
-      },
-      {
-        src: ai1,
-        alt: "Booth setup for Anime Impulse",
-        caption: "10x20 Double Booth at Anime Impulse",
+        src: boothAla1,
+        alt: "10'x10' corner setup at Anime Los Angeles 2026",
+        caption: "10'x10' corner setup at Anime Los Angeles 2026",
         isFullWidth: true,
       },
       {
-        src: stockton1,
-        alt: "Booth setup for StocktonCon",
-        caption: "10x5 Artist Alley Booth at StocktonCon",
-        isFullWidth: true,
+        src: boothAla2,
+        alt: "10'x10' corner setup at Anime Los Angeles 2026",
+        caption: "10'x10' corner setup at Anime Los Angeles 2026",
+        isFullWidth: false,
+      },
+      {
+        src: boothSmall,
+        alt: "8' table setup at local convention",
+        caption: "8' table setup at local convention",
+        isFullWidth: false,
       },
     ],
   };
 
   return (
     <section className={styles.booth}>
-      <Heading subtitle="Past conventions" title="booth setup" />
+      <Heading subtitle="Recent conventions" title="booth setup" />
       <div className={styles.booth__grid}>
         {content.images.map((image, index) => (
           <figure

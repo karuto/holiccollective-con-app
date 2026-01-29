@@ -1,9 +1,9 @@
 import React from "react";
 import Footer from "../Footer/Footer";
 import styles from "./Page.css";
-import Team from "../Team/Team";
+import Art from "../Art/Art";
 import Booth from "../Booth/Booth";
-import Products from "../Products/Products";
+import Merch from "../Merch/Merch";
 import Carousel from "../Carousel/Carousel";
 
 function Page() {
@@ -12,10 +12,10 @@ function Page() {
     subheadingGlobal:
       "Your fandom deserves better than a plain sticker, and so do you",
     description:
-      "Hi! My name is Yao and I am a Sacramento-based specialty acrylic standee maker in the Hoyo & LADS fandom. Your husbando deserves better than a plain sticker, and so do you 🤘",
+      "Hi! I'm Karuto, a California-based artist & specialty acrylic standee maker. Your husbando deserves better than a plain sticker, and so do you 🤘",
   };
   const disclaimer =
-    "Holic Collective is a small, non-commercial passion project run by Yao. Please reach out to hi@holiccollective.com if you have any questions!";
+    "Holic Collective is a small, non-commercial passion project run by Karuto. Please reach out to hi@holiccollective.com if you have any questions!";
 
   return (
     <div className={styles.container}>
@@ -28,7 +28,8 @@ function Page() {
       </header>
       <div className={styles.content}>
         {/* <Team /> */}
-        <Products />
+        <Art />
+        <Merch />
         <Booth />
         <div className={styles.disclaimerSection}>
           <p className={styles.disclaimerText}>{disclaimer}</p>
