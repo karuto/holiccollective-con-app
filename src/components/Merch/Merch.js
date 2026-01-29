@@ -32,7 +32,7 @@ const merchImages = [
 function Merch() {
   return (
     <section className={styles.merch}>
-      <Heading subtitle="No reselling & no AI" title="Merch showcase" />
+      <Heading subtitle="All merch designed in-house - No reselling & no AI" title="Merch showcase" />
       <div className={styles.merch__grid}>
         {merchImages.map((img, index) => (
           <figure key={index} className={styles.merch__item}>

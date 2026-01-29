@@ -10,9 +10,9 @@ function Page() {
   const content = {
     headingGlobal: "Holic Collective",
     subheadingGlobal:
-      "Your fandom deserves better than a plain sticker, and so do you",
+      "Your fandom deserves more than plain stickers, and so do you",
     description:
-      "Hi! I'm Karuto, a California-based artist & specialty acrylic standee maker. Your husbando deserves better than a plain sticker, and so do you 🤘",
+      "Hi! I'm Karuto, a California-based artist & specialty acrylic standee maker. Welcome to my studio! Your fandom deserves more than plain stickers, and so do you 🤘",
   };
   const disclaimer =
     "Holic Collective is a small, non-commercial passion project run by Karuto. Please reach out to hi@holiccollective.com if you have any questions!";
