@@ -102,6 +102,10 @@
   margin: 32px auto 0;
 }
 
+.subheadingAdditional p {
+  font-family: var(--font-family-body);
+}
+
 @media (max-width: 768px) {
   .titles__image {
     max-width: 85%;
