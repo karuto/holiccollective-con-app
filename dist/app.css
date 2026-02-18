@@ -115,10 +115,20 @@
   margin: 32px auto 0;
 }
 
+.src-components-Page-Page__subheadingAdditional--1kBPp p {
+  font-family: var(--font-family-body);
+}
+
 @media (max-width: 768px) {
   .src-components-Page-Page__titles__image--38wXf {
     max-width: 85%;
     margin: -30px auto 0;
+  }
+
+  .src-components-Page-Page__subheading--252zZ,
+  .src-components-Page-Page__subheadingAdditional--1kBPp {
+    margin-left: 16px;
+    margin-right: 16px;
   }
 }
 

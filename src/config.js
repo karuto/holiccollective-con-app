@@ -7,12 +7,16 @@ const configMap = {
     descriptionAdditional: `Our primary audience consists of female fans aged 20–35, with an average convention order value of approximately $75. We have successfully exhibited at major North American conventions including Fan Expo, GalaxyCon, Anime Expo, Anime Central, Anime Los Angeles, and Anime NYC.
 
 In addition, Holic Collective artists have been invited to participate in official events hosted by leading industry companies such as miHoYo, Yostar, and Tencent Games, and are recognized members of their official creator programs.`,
+    disclaimer:
+      "Holic Collective is a small passion project run by Karuto. Please reach out to hi@holiccollective.com if you have any questions!",
   },
   personal: {
     title: "Holic Collective Con App - Personal Version",
     description:
       "Hi! I'm Karuto, a California-based artist & specialty acrylic standee maker. Welcome to my studio! Your fandom deserves more than plain stickers, and so do you 🤘",
     descriptionAdditional: "",
+    disclaimer:
+      "Holic Collective is a small passion project run by Karuto. Please reach out to hi@holiccollective.com if you have any questions!",
   },
 };
 

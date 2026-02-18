@@ -16,8 +16,6 @@ function Page() {
     description: config.description,
     descriptionAdditional: config.descriptionAdditional,
   };
-  const disclaimer =
-    "Holic Collective is a small, non-commercial passion project run by Karuto. Please reach out to hi@holiccollective.com if you have any questions!";
 
   return (
     <div className={styles.container}>
@@ -41,7 +39,7 @@ function Page() {
         <Merch />
         <Booth />
         <div className={styles.disclaimerSection}>
-          <p className={styles.disclaimerText}>{disclaimer}</p>
+          <p className={styles.disclaimerText}>{config.disclaimer}</p>
         </div>
       </div>
       <Footer />

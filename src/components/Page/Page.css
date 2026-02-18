@@ -111,6 +111,12 @@
     max-width: 85%;
     margin: -30px auto 0;
   }
+
+  .subheading,
+  .subheadingAdditional {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 }
 
 .disclaimerSection {
