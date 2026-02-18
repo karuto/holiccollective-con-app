@@ -6,13 +6,15 @@ import Booth from "../Booth/Booth";
 import Merch from "../Merch/Merch";
 import Carousel from "../Carousel/Carousel";
 
+import config from "../../config";
+
 function Page() {
   const content = {
     headingGlobal: "Holic Collective",
     subheadingGlobal:
       "Your fandom deserves more than plain stickers, and so do you",
-    description:
-      "Hi! I'm Karuto, a California-based artist & specialty acrylic standee maker. Welcome to my studio! Your fandom deserves more than plain stickers, and so do you 🤘",
+    description: config.description,
+    descriptionAdditional: config.descriptionAdditional,
   };
   const disclaimer =
     "Holic Collective is a small, non-commercial passion project run by Karuto. Please reach out to hi@holiccollective.com if you have any questions!";
@@ -24,6 +26,13 @@ function Page() {
         <h3 className={styles["subheading"]}>{content.description}</h3>
         <div className={styles.headers__content}>
           <Carousel />
+        </div>
+        <div className={styles["subheadingAdditional"]}>
+          {content.descriptionAdditional
+            ? content.descriptionAdditional
+                .split(/\n\n+/)
+                .map((paragraph, i) => <p key={i}>{paragraph.trim()}</p>)
+            : null}
         </div>
       </header>
       <div className={styles.content}>

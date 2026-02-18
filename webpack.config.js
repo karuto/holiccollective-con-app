@@ -1,4 +1,6 @@
 const path = require("path");
+require("dotenv").config();
+const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = {
@@ -15,6 +17,11 @@ module.exports = {
       // both options are optional
       filename: "app.css",
       chunkFilename: "[id].css",
+    }),
+    new webpack.DefinePlugin({
+      "process.env.REACT_APP_VARIANT": JSON.stringify(
+        process.env.REACT_APP_VARIANT,
+      ),
     }),
   ],
   module: {

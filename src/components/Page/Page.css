@@ -1,15 +1,16 @@
 :root {
   --font-family-brand: "Raleway", sans-serif;
   --font-family-serif: "Playfair Display", serif;
-  --font-family-body: Roboto, "Hiragino Sans GB", "冬青黑", "Microsoft YaHei",
-    "微软雅黑", SimSun, "宋体", sans-serif;
+  --font-family-body:
+    Roboto, "Hiragino Sans GB", "冬青黑", "Microsoft YaHei", "微软雅黑", SimSun,
+    "宋体", sans-serif;
   --font-size-heading: 64px;
   --font-size-subtitle: 32px;
   --font-size-body: 16px;
   --font-size-annotation: 12px;
   --border-radius-big: 16px;
-  --box-shadow-big: 0 8px 40px 0 rgba(0, 0, 0, 0.18),
-    0 1.5px 8px 0 rgba(0, 0, 0, 0.1);
+  --box-shadow-big:
+    0 8px 40px 0 rgba(0, 0, 0, 0.18), 0 1.5px 8px 0 rgba(0, 0, 0, 0.1);
   --color-brand: #cb4335;
   --color-secondary: #262541;
   --color-accent: #ff9b54;
@@ -85,7 +86,8 @@
   text-align: center;
 }
 
-.subheading {
+.subheading,
+.subheadingAdditional {
   margin: 0 auto 32px;
   max-width: 560px;
   padding: 0;
@@ -94,6 +96,10 @@
   font-weight: normal;
   font-size: var(--font-size-body);
   line-height: 1.5;
+}
+
+.subheadingAdditional {
+  margin: 32px auto 0;
 }
 
 @media (max-width: 768px) {
