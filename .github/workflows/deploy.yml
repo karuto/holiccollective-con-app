@@ -22,10 +22,10 @@ jobs:
         run: npm install
 
       # -----------------
-      # BUILD CON VERSION
+      # BUILD COLLECTIVE VERSION
       # -----------------
-      - name: Build Con
-        run: npm run build:con
+      - name: Build Collective
+        run: npm run build:collective
 
       - name: Deploy to holiccollective-convention
         uses: peaceiris/actions-gh-pages@v3
@@ -36,13 +36,13 @@ jobs:
           publish_dir: ./dist
 
       # -----------------
-      # BUILD APP VERSION
+      # BUILD PERSONAL VERSION
       # -----------------
       - name: Clean dist
         run: rm -rf dist
 
-      - name: Build App
-        run: npm run build:app
+      - name: Build Personal
+        run: npm run build:personal
 
       - name: Deploy to holiccollective-con-app
         uses: peaceiris/actions-gh-pages@v3

@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack --mode development",
-    "build:con": "REACT_APP_VARIANT=con webpack --mode production",
-    "build:app": "REACT_APP_VARIANT=app webpack --mode production"
+    "build:collective": "REACT_APP_VARIANT=collective webpack --mode production",
+    "build:personal": "REACT_APP_VARIANT=personal webpack --mode production"
   },
   "engines": {
     "node": ">=18"
