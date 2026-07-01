@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./Booth.css";
+import boothFanExpoAnaheim from "../../assets/booth/booth-fan-expo-anaheim.png";
 import boothFanime from "../../assets/booth/booth-fanime.jpg";
 import boothKawaiikon from "../../assets/booth/booth-kawaiikon.jpg";
 import boothC2e2 from "../../assets/booth/booth-c2e2.jpg";
@@ -15,32 +16,44 @@ function Booth() {
 
   const defaultImages = [
     {
+      src: boothFanExpoAnaheim,
+      alt: "8' table setup at Fan Expo, Anaheim, CA (Summer 2026)",
+      caption: "8' table setup at Fan Expo, Anaheim, CA (Summer 2026)",
+      isFullWidth: true,
+    },
+    {
       src: boothFanime,
-      alt: "8' table setup at FanimeCon, San Jose, CA (May 2026)",
-      caption: "8' table setup at FanimeCon, San Jose, CA (May 2026)",
+      alt: "8' table setup at FanimeCon, San Jose, CA (Summer 2026)",
+      caption: "8' table setup at FanimeCon, San Jose, CA (Summer 2026)",
       isFullWidth: false,
     },
     {
       src: boothKawaiikon,
-      alt: "8' table setup at KawaiiKon, Honolulu, HI (Apr 2026)",
-      caption: "8' table setup at KawaiiKon, Honolulu, HI (Apr 2026)",
+      alt: "8' table setup at KawaiiKon, Honolulu, HI (Spring 2026)",
+      caption: "8' table setup at KawaiiKon, Honolulu, HI (Spring 2026)",
       isFullWidth: false,
     },
     {
       src: boothC2e2,
-      alt: "10x10' corner booth setup at C2E2, Chicago, IL (Mar 2026)",
-      caption: "10x10' corner booth setup at C2E2, Chicago, IL (Mar 2026)",
+      alt: "10x10' corner booth setup at C2E2, Chicago, IL (Spring 2026)",
+      caption: "10x10' corner booth setup at C2E2, Chicago, IL (Spring 2026)",
       isFullWidth: false,
     },
     {
       src: boothAla,
-      alt: "10x10' corner setup at Anime Los Angeles, Long Beach, CA (Jan 2026)",
-      caption: "10x10' corner setup at Anime Los Angeles, Long Beach, CA (Jan 2026)",
+      alt: "10x10' corner setup at Anime Los Angeles, Long Beach, CA (Winter 2026)",
+      caption: "10x10' corner setup at Anime Los Angeles, Long Beach, CA (Winter 2026)",
       isFullWidth: false,
     },
   ];
 
   const ladsImages = [
+    {
+      src: boothFanExpoAnaheim,
+      alt: "8' table setup at Fan Expo, Anaheim, CA (Summer 2026)",
+      caption: "8' table setup at Fan Expo, Anaheim, CA (Summer 2026)",
+      isFullWidth: true,
+    },
     {
       src: boothLadsC2e2,
       alt: "8' table setup at C2E2, Chicago, IL (Spring 2026)",
