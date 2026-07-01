@@ -147,8 +147,34 @@ If you see this error but you made changes, check:
 - Clear your browser cache
 - Verify you pushed to the correct remote with the correct build
 
+### Deploy script fails with "rejected" or "non-fast-forward" errors
+
+This happens when remotes have diverged due to different commit histories (e.g., CNAME updates on each remote).
+
+**Quick fix (if you're confident about your local changes):**
+
+```bash
+# Fetch all remotes to see current state
+git fetch --all
+
+# Force push to sync all remotes with your local branch
+git push --force personal master
+git push --force collective master
+git push --force lads master
+
+# Now run deploy script normally
+./deploy.sh "Your commit message"
+```
+
+**Why this happens:**
+- Each remote (personal, collective, lads) may have its own CNAME file or dist commits
+- Multiple rebases can create divergent commit histories
+- The deploy script excludes CNAME files (`git add . ':!CNAME'`) to preserve each remote's domain
+
+**Note:** Force pushing overwrites remote history. Only use this when you're sure your local branch has all the changes you need.
+
 ### Deploy script fails
 
-- Check that you have push access to both GitHub repositories
+- Check that you have push access to all three GitHub repositories
 - Ensure all remotes are configured correctly: `git remote -v`
 - Verify Node.js and npm are working: `npm --version`
